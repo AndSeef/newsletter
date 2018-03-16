@@ -1,6 +1,6 @@
 ---
 title: SCIL - Systems & Control Innovation Lab
-author: "Andreas Seefried ([DLR](http://www.dlr.de/sr/en/)"
+author: "Andreas Seefried ([SCIL](http://www.systemcontrolinnovationlab.de/)"
 category: "vendor"
 ---
 
