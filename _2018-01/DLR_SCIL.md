@@ -4,7 +4,7 @@ author: "Andreas Seefried ([DLR](http://www.dlr.de/sr/en/)"
 category: "vendor"
 ---
 
-![logo](logo.jpg)
+![logo](logo1.jpg)
 
 #### Our Goal
 The main objective of the Systems and Control Innovation Lab
