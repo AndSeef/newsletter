@@ -26,4 +26,27 @@ experience in the different research fields (aerospace,
 transportation, energy, security) and from previous technology
 transfer projects.
 
-#### 
+#### Using Modelica for modelling and simulation
+A multitude of already commercialized Modelica libraries (PowerTrain Library for
+vehicle systems, FlexibleBodies Library for modelling of flexible
+bodies, FlightDynamics Library for modelling of aircraft
+systems, Visualization Library for model-integrated real-time
+visualization, etc.) is complemented by a greater number of
+internally used libraries covering the whole spectrum of the
+areas transportation, aeronautics, terramechanics, energy
+systems, robotics, real-time control as well as multi-criteria- and anti-optimization.
+
+#### Range of Services
+![](services.png)
+
+#### Research Grants
+Innovative research is funded by the EU, the German Federal
+Government and their Länder with a multitude of funding
+programs, in particular if SMEs and Startups are involved. The
+SCIL can support with the selection of a suitable program, as
+in many cases the involvement of a large-scale research center
+as the DLR increases the chances or is prerequisite of
+acceptance of a research proposal. By realizing a joint research
+grant even high-risk research projects can be carried out
+calculable with funding.
+
