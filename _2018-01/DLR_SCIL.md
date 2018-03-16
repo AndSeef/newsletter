@@ -4,8 +4,6 @@ author: "Andreas Seefried ([DLR](http://www.dlr.de/sr/en/)"
 category: "vendor"
 ---
 
-![logo](logo.jpg){:width="100px"}
-
 #### Our Goal
 The main objective of the Systems and Control Innovation Lab
 (SCIL) is to offer Start-up companies and SMEs direct access to
